@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    height: 110vh;
+    width: 100vw;
+    background-image: linear-gradient(to right, #f2ebfe, #dac0ff);
+}
+
+.main-heading {
+    color: #690cb0;
+    font-size: 48px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.main-para {
+    color: #3e4c59;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.img {
+    height: 65px;
+    width: 65px;
+}
+
+.span-time {
+    color: #3e4c59;
+    font-size: 42px;
+    font-family: "Roboto";
+}
+
+.test-card {
+    background-color: #f2ebfe;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #9aa5b1;
+    padding: 15px;
+}
+
+.card-para {
+    color: #3e4c59;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.input-box {
+    width: 100%;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #9aa5b1;
+}
+
+.status-para {
+    color: #323f4b;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.submit-btn {
+    background-color: #690cb0;
+    color: white;
+    font-size: 14px;
+    font-family: "Roboto";
+    border-radius: 8px;
+    padding: 5px;
+    height: 38px;
+    width: 82px;
+    border-style: none;
+}
+
+.reset-btn {
+    background-color: white;
+    font-weight: bold;
+    color: black;
+    font-size: 14px;
+    font-family: "Roboto";
+    border-radius: 8px;
+    padding: 5px;
+    height: 38px;
+    width: 82px;
+    border-style: none;
+}
+
+.bg-container {
+    height: 110vh;
+    width: 100vw;
+    background-image: linear-gradient(to right, #f2ebfe, #dac0ff);
+}
+
+.main-heading {
+    color: #690cb0;
+    font-size: 48px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.main-para {
+    color: #3e4c59;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.img {
+    height: 65px;
+    width: 65px;
+}
+
+.span-time {
+    color: #3e4c59;
+    font-size: 42px;
+    font-family: "Roboto";
+}
+
+.test-card {
+    background-color: #f2ebfe;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #9aa5b1;
+    padding: 15px;
+}
+
+.card-para {
+    color: #3e4c59;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.input-box {
+    width: 100%;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #9aa5b1;
+}
+
+.status-para {
+    color: #323f4b;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.submit-btn {
+    background-color: #690cb0;
+    color: white;
+    font-size: 14px;
+    font-family: "Roboto";
+    border-radius: 8px;
+    padding: 5px;
+    height: 38px;
+    width: 82px;
+    border-style: none;
+}
+
+.reset-btn {
+    background-color: white;
+    font-weight: bold;
+    color: black;
+    font-size: 14px;
+    font-family: "Roboto";
+    border-radius: 8px;
+    padding: 5px;
+    height: 38px;
+    width: 82px;
+    border-style: none;
+}
